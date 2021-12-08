@@ -1,6 +1,6 @@
 # Embedded-OS-Implementation
 
-Development of OS/2.<br/>
+Development of uC/OS-II.<br/>
 CH1  introduction <br/>
 CH2  Embedded OS Concepts<br/>
 CH3  uc os-2 kernel structure<br/>
